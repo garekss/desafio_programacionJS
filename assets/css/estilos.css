@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-
+/* AAjuste fondo principal */
 body {
   background-image: url("../imgs/fondo.jpg");
   background-position: bottom;
